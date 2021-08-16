@@ -8,10 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* [add](outdoor event log add.png)
-
-* [edit](outdoor event log edit.png)
-* [view](outdoor event log view.png)
+* [mockup of add page](https://github.com/Stephen-Kee/liftoff-assignments/blob/f3ce809465f22d8300fd0cb395ecead328ddd7c6/P3-Project_Planning/outdoor%20event%20log%20add.png)
+* [mockup of edit page](https://github.com/Stephen-Kee/liftoff-assignments/blob/f3ce809465f22d8300fd0cb395ecead328ddd7c6/P3-Project_Planning/outdoor%20event%20log%20edit.png)
+* [mockup of view page](https://github.com/Stephen-Kee/liftoff-assignments/blob/f3ce809465f22d8300fd0cb395ecead328ddd7c6/P3-Project_Planning/outdoor%20event%20log%20view.png)
 
 ### Project Tracker
 
